@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+#root {
+  max-width: 1440px;
+}
+/* modo movil */
+@media (max-width: 468px) {
+  #root {
+    max-width: 360px;
+  }
+}
