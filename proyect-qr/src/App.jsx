@@ -5,8 +5,7 @@ import CardQr from './design/card/cardQr'
 
 function App() {
   return (
-    <div className='flex flex-col min-h-screen min-w-screen  justify-between '>
-
+    <div className='flex flex-col min-h-screen min-w-screen justify-between'>
       <div className='m-auto'>
         <CardQr />
       </div>
