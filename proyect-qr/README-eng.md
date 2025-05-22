@@ -24,11 +24,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Version Desktop
 
-![](../frontendMentor-qr_desktop.png)
+![](./public/frontendMentor-qr_desktop.png)
 
 ## Version Mobile
 
-![](../frontendMentor-qr_mobile.png)
+![](./public/frontendMentor-qr_mobile.png)
 
 ### Links
 
