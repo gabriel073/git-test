@@ -28,7 +28,7 @@ Esta es una solución al [desafío de componentes de código QR en Frontend Ment
 
 ## Versión Móvil
 
-![](../proyect-qr/src/design/screensResults/frontendMentor-qr_mobile.png)
+![](./frontendMentor-qr_mobile.png)
 
 ### Enlaces
 
