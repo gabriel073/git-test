@@ -24,11 +24,11 @@ Esta es una solución al [desafío de componentes de código QR en Frontend Ment
 
 ## Versión de escritorio
 
-![](./frontendMentor-qr_desktop.png)
+![](./assets/frontendMentor-qr_desktop.png)
 
 ## Versión Móvil
 
-![](./frontendMentor-qr_mobile.png)
+![](./assets/frontendMentor-qr_mobile.png)
 
 ### Enlaces
 
